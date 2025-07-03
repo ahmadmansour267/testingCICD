@@ -1,0 +1,13 @@
+{
+  "name": "testingcicd",
+  "version": "1.0.0",
+  "description": "CI/CD demo project",
+  "main": "src/math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.6.3"
+  },
+  "type": "commonjs"
+}
